@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Solia">
+  <circle cx="76" cy="76" r="30" fill="none" stroke="#101014" stroke-width="10"/>
+  <path d="M 46,76 A 30,30 0 0 1 76,46" fill="none" stroke="#D94E68" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="24" cy="24" r="12" fill="#D94E68"/>
+</svg>

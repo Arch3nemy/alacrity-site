@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Miria">
+  <!-- The ribbon: two loops in one violet family, tied at an ink knot. The
+       Android launcher icon is the same geometry (mobile/androidApp, drawable
+       ic_launcher_foreground.xml) — change both or neither. -->
+  <rect width="48" height="48" rx="11" fill="#FFFFFF" />
+  <g transform="translate(24 23) scale(0.325)">
+    <path d="M0 0 C -14 -26, -44 -30, -44 -10 C -44 6, -18 8, 0 0 Z" fill="#6247E0" />
+    <path d="M0 0 C 14 -26, 44 -30, 44 -10 C 44 6, 18 8, 0 0 Z" fill="#8E78E9" />
+    <path d="M0 0 C -6 12, -14 22, -22 30" fill="none" stroke="#6247E0" stroke-width="9" stroke-linecap="round" />
+    <path d="M0 0 C 6 12, 14 22, 22 30" fill="none" stroke="#8E78E9" stroke-width="9" stroke-linecap="round" />
+    <circle cx="0" cy="0" r="6.5" fill="#101014" />
+  </g>
+</svg>
