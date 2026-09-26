@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Liora">
+  <!-- The pinwheel: four coral blades around an ink centre. Same geometry as
+       the app's LioraMark.kt and launcher icon (liora repo) — change all or none. -->
+  <rect width="48" height="48" rx="11" fill="#FFFFFF" />
+  <g transform="translate(24 24) scale(0.4)">
+    <path d="M0 0C20 -8 30 -30 0 -42C-6 -26 -4 -12 0 0Z" fill="#C94735" />
+    <path d="M0 0C20 -8 30 -30 0 -42C-6 -26 -4 -12 0 0Z" fill="#E27A63" transform="rotate(90)" />
+    <path d="M0 0C20 -8 30 -30 0 -42C-6 -26 -4 -12 0 0Z" fill="#F2A893" transform="rotate(180)" />
+    <path d="M0 0C20 -8 30 -30 0 -42C-6 -26 -4 -12 0 0Z" fill="#E27A63" transform="rotate(270)" />
+    <circle r="5.5" fill="#101014" />
+  </g>
+</svg>
